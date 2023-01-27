@@ -1,7 +1,7 @@
-# Extra-Dim-Tile-for-Anyehere-
+# Extra-Dim-Tile-for-Anywhere-
 Restore the hidden Extra Dim tile on custom ROM using [Anywhere-](https://github.com/zhaobozhen/Anywhere-).
 
-**English | [简体中文](https://github.com/hrsthrt74/Extra-Dim-Tile-for-Anyehere-/blob/main/README_zh_cn.md)**
+**English | [简体中文](https://github.com/hrsthrt74/Extra-Dim-Tile-for-Anywhere-/blob/main/README_zh_cn.md)**
 
 # Usage
 Please copy the link below, then open Anywhere-.
@@ -13,4 +13,4 @@ anywhere://share/J2VP8X5qVhbI2sRvhT5hh4AyfZ3tTIZ7QJFwQk+uQb2oLl5l6e3fOQH6qhYqCQO
 Require Shizuku.
 
 # Icon
-Please click [here](https://github.com/hrsthrt74/Extra-Dim-Tile-for-Anyehere-/raw/main/ic_extra_dim.png) to download the Extra Dim icon. The icon is from the Android Settings.
+Please click [here](https://github.com/hrsthrt74/Extra-Dim-Tile-for-Anywhere-/raw/main/ic_extra_dim.png) to download the Extra Dim icon. The icon is from the Android Settings.
